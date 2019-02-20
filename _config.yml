@@ -2,6 +2,9 @@
 title: Zakala
 timezone: UTC
 collections:
+  phones:
+    title: Phones
+    output: true
   posts:
     title: Posts
     output: true
