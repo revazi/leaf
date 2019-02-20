@@ -5,7 +5,6 @@ collections:
   phones:
     title: Phones
     output: true
-    STOCK: in stock
     Field name:
     - Key 1: 
   posts:
